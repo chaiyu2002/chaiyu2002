@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaiyu2002
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning K8S.
+- 🌱 I’m currently learning K8s.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
